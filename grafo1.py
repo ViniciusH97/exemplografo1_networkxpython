@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 G = nx.Graph()
 
-# Adicionando as vértices
+# Adicionando os vértices
 
 G.add_node('v1')
 G.add_node('v2')
